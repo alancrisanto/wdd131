@@ -19,16 +19,12 @@
   color: #fde047;
 }
 
+.text-blue-900 {
+  color: #1e1b4b;
+}
+
 .p1 {
   padding: 1rem;
-}
-
-.px-1 {
-  padding: 0 1rem;
-}
-
-.py-1 {
-  padding: 1rem 0;
 }
 
 .pb1 {
@@ -123,6 +119,7 @@ footer {
   text-align: center;
 }
 
+/* Media Queries */
 @media screen and (min-width: 525px) {
 
   nav {
